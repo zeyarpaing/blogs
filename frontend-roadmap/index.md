@@ -1,13 +1,11 @@
 ---
 title: Front-end Dev Roadmap
-date: 2022-01-01
-tags: ["frontend", "roadmap"]
+date: 2022-09-18
+tags: ["frontend", "guide"]
 description: "Frontend developer တစ်ယောက်ဖြစ်ဖို့ ဘယ်လိုစလေ့လာရမလဲ"
 ---
 
 # Front-end Dev Roadmap
-
-Frontend developer တစ်ယောက်ဖြစ်ဖို့ ဘယ်လိုစလေ့လာရမလဲ
 
 ### Front-end developer ကဘာတွေလုပ်ရလဲ
 

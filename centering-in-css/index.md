@@ -1,13 +1,11 @@
 ---
 title: Centering in CSS
-date: 2022-01-01
+date: 2022-08-23
 tags: ["css"]
 description: "Ways to center an element in CSS"
 ---
 
 # Centering in CSS
-
-Ways to center an element in CSS
 
 HTML, CSS ကိုစလေ့လာခါစ အားလုံးကြုံနေကျ အခက်ခဲတစ်ခုကတော့ တစ်ခုခုကိုအလယ်ပို့ချင်တဲ့အခါ ကြုံရတဲ့အခက်ခဲပဲဖြစ်ပါတယ်။ Google ခေါက်လိုက်ရင်လည်း solution မျိုးစုံကျလာပေမယ့်ကိုယ့်ပြဿနာနဲ့မကိုက်တာမျိုးတွေလည်းကြုံနိုင်ပါတယ်။ ဒါကြောင့် ဒီ article မှာ ဘယ်လိုနေရာမှာ ဘယ်လိုအလယ်ပို့ကြမလဲကို ပြောပြပေးသွားပါမယ်။
 
