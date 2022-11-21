@@ -1,4 +1,11 @@
-# Centering
+---
+title: Centering in CSS
+date: 2022-01-01
+tags: ["css"]
+description: "Ways to center an element in CSS"
+---
+
+# Centering in CSS
 
 Ways to center an element in CSS
 
