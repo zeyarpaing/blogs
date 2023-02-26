@@ -13,6 +13,13 @@ HTML, CSS ကိုစလေ့လာခါစ အားလုံးကြုံ
 
 နောက်တစ်ခုကတော့ width တစ်ခုရှိတဲ့ inline မဟုတ်တဲ့ element တွေကို horizontal align လုပ်တဲ့နေရာမှာအသုံးများပါတယ်။ margin: 0 auto; ဆိုပြီးပေးလိုက်ရင် horizontally center ဖြစ်သွားမှာပါ။ margin top / bottom ကိုမထိချင်ရင် margin-left: auto; margin-right: auto; ဆိုပြီးပေးလို့ရပါတယ်။ ဒါကို page container တွေမှာအသုံးများတာတွေ့ရပါတယ်။ 
 
+```css
+div {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+```
 ![marginauto.png](assets/marginauto.png)
 
 နောက်တစ်ခုကတော့ grid သုံးပြီး အလယ်ပို့တာပါ။ parent container ကို display:grid; place-items: center; ပေးလိုက်ရင် သူ့ထဲမှာရှိတဲ့ child element က container ရဲ့အလယ်ကိုရောက်သွားမှာပါ။ သူကတော့ horizontal ရော vertical ရော align လုပ်ပေးပါတယ်။ သူနဲ့ပုံစံတူတာတစ်ခုက flex သုံးပြီးလုပ်တာပါ။ flex နဲ့ဆိုရင်တော့ horizontal / vertical ထိန်းချုပ်လို့ရသွားပါတယ်။ gird လိုပဲ parent container ကို display: flex; ပေးပြီး align-items: center; လုပ်ရင် vertical align ဖြစ်ပြီး justify-content: center; လုပ်ရင်တော့ horizontal align ဖြစ်ပါတယ် ။ နှစ်ခုလုံးတွဲသုံးလည်းရပါတယ်။ flex မှာက direction: row default  ကို column ထားလိုက်ရင် ပြောင်းပြန်သဘောမျိုး အလုပ်လုပ်မှာဖြစ်ပါတယ်။ ဒီနှစ်ခုလုံးက သုံရတာလည်းလွယ်ပြီးလူသုံးများပါတယ်။
