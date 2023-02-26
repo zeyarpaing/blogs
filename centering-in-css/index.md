@@ -20,7 +20,11 @@ div {
   margin-right: auto;
 }
 ```
-This is a p.
+
+
+နောက်တစ်ခုက position: absolute/fixed လိုကောင်မျိုးတွေကို အလယ်ပို့တဲ့နေရာမှာအသုံးများပါတယ်။ ဥပမာ loading icon ကို page ရဲ့အလယ်မှာ fixed လုပ်ပြီးပြချင်တာမျိုးတွေမှာသုံးကြပါတယ်။ top: 50%; left: 50%; transform: translate(-50%, -50%);
+
+
 
 ```js {1-3,4} showLineNumbers
   const h = 'Hello';
