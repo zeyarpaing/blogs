@@ -13,7 +13,7 @@ HTML, CSS ကိုစလေ့လာခါစ အားလုံးကြုံ
 
 နောက်တစ်ခုကတော့ width တစ်ခုရှိတဲ့ inline မဟုတ်တဲ့ element တွေကို horizontal align လုပ်တဲ့နေရာမှာအသုံးများပါတယ်။ margin: 0 auto; ဆိုပြီးပေးလိုက်ရင် horizontally center ဖြစ်သွားမှာပါ။ margin top / bottom ကိုမထိချင်ရင် margin-left: auto; margin-right: auto; ဆိုပြီးပေးလို့ရပါတယ်။ ဒါကို page container တွေမှာအသုံးများတာတွေ့ရပါတယ်။ 
 
-```css
+```css /auto/
 div {
   max-width: 1200px;
   margin-left: auto;
