@@ -26,7 +26,7 @@ div {
 
 
 
-```js {1-3,4} showLineNumbers
+```js {2,4} showLineNumbers
 const h = 'Hello';
 const world = 'World';
 console.log(h, world);
