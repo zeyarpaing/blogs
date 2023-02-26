@@ -27,10 +27,10 @@ div {
 
 
 ```js {1-3,4} showLineNumbers
-  const h = 'Hello';
-  const world = 'World';
-  console.log(h, world);
-  const a = () => console.log('hello world!');
+const h = 'Hello';
+const world = 'World';
+console.log(h, world);
+const a = () => console.log('hello world!');
 ```
 ![image](https://user-images.githubusercontent.com/26962987/221396768-124d3025-1ee3-4975-8933-031b8dfbaea5.png)
 
